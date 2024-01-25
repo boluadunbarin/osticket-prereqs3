@@ -22,7 +22,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  3) Open IIS
  4) Continue installing prereqs
  5) Setup osTicket in the browser
- 6) Check user and local host websites
+ 6) Check user and local host osTicket URLs
+
+ 
 <h2>Installation Steps</h2>
 
 ![image](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/82678fc5-de9f-47d0-93b7-28318a7be4a7)
