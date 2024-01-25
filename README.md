@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![Screenshot 2024-01-24 211001](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/8c9f6cde-3ebe-4834-a325-a1687322331a)
 
-![Screenshot 2024-01-24 210912](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/6007c7e3-89f8-4c20-91c5-f83f8de61070)
+![Screenshot 2024-01-24 213703](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/971b2824-8e50-4456-a86b-d1ef22fa20a2)
 
 ![Screenshot 2024-01-24 211157](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/06374a63-ddaa-48df-a0a1-b0c615ba697c)
 
@@ -45,3 +45,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![Screenshot 2024-01-24 212754](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/aba0adea-360a-4d8b-a521-2684cffabebb)
 
 ![Screenshot 2024-01-24 213200](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/d0f67dd1-33e8-45bb-bcf7-f68e7c805aaf)
+
+![Screenshot 2024-01-24 214336](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/10abff53-a3ca-4dc8-a1e8-450c2dbe0f24)
+
