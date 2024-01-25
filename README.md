@@ -85,4 +85,14 @@ On the right, click “Browse *:80”
 check the osticket website from the “Browse *:80” step
 
 ![15](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/86ad4eca-9145-4757-97c6-087d25ad0f82)
+Rename: ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+Assign Permissions: ost-config.php
+Disable inheritance -> Remove All
+New Permissions -> Everyone -> All
+
+![17](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/8233fc0f-f1d8-48c9-b5a4-deff3dc377c2)
+
 
