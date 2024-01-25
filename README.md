@@ -19,11 +19,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Overall steps</h2>
  1) Create virtual machine in azure
  2) Install and enable IIS
- 2) Install the prereqs
- 3) Open IIS
- 4) Continue installing prereqs
- 5) Setup osTicket in the browser
- 6) Check user and local host osTicket URLs
+ 3) Install the prereqs
+ 4) Open IIS
+ 5) Continue installing prereqs
+ 6) Setup osTicket in the browser
+ 7) Check user and local host osTicket URLs
 
  
 <h2>Installation Steps</h2>
