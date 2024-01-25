@@ -29,7 +29,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/82678fc5-de9f-47d0-93b7-28318a7be4a7)
 
-
 Create a virtual machine in azure, windows 10, 4vCPUs
 Name: vm-osticket
 User: gftbnd
