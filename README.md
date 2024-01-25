@@ -18,7 +18,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 <h2>Overall steps</h2>
  1) Create virtual machine in azure
- 
  2) Install the prereqs
 
 
@@ -70,7 +69,7 @@ Register PHP from within IIS
 
 ![8](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/7b797ece-4d1a-451c-bb70-a1ad5f236c0c)
 
-Reload IIS (Open IIS, Stop and Start the server)
+Reload IIS (Stop and Start the server)
 
 ![9](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/5c5a3ce0-c60f-44b9-ba32-d8b759cc023d)
 
@@ -81,7 +80,7 @@ Download osTicket from the Installation Files Folder
 Extract and copy “upload” folder to c:\inetpub\wwwroot
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
-Reload IIS (Open IIS, Stop and Start the server)
+Reload IIS (Stop and Start the server)
 
 ![11](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/bb2ab875-8228-49f1-86d9-fc7ce0dc3c43)
 
@@ -102,8 +101,8 @@ From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 Assign Permissions: ost-config.php
-Disable inheritance -> Remove All
-New Permissions -> Everyone -> All
+Disable inheritance:  Remove All
+New Permissions: Everyone: All
 
 ![18](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/4ad75467-3b4a-4f54-8a7f-796b1771078d)
 
