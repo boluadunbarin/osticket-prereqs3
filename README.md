@@ -18,6 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 <h2>Overall steps</h2>
  1) Create virtual machine in azure
+ 2) Install and enable IIS
  2) Install the prereqs
  3) Open IIS
  4) Continue installing prereqs
