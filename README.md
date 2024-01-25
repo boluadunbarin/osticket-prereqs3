@@ -80,3 +80,9 @@ On the right, click “Browse *:80”
 ![12](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/6fffcf7c-2f18-44e8-aea6-b5ebe437289b)
 
 ![13](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/3a0218a3-6e68-42e9-9925-a867677a5a5f)
+
+![14](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/a88df853-0d92-4a14-bfcc-d9f43747d62b)
+check the osticket website from the “Browse *:80” step
+
+![15](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/86ad4eca-9145-4757-97c6-087d25ad0f82)
+
