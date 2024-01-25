@@ -38,11 +38,11 @@ Files to download
 
 ![Screenshot 2024-01-24 221218](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/bef9bb83-98a6-4822-b841-32e98835ecf0)
 
-iis> world wide web services> application development features> (x) CGI
-iis> world wide web services> (x) common http features
+IIS> world wide web services> application development features> (x) CGI
+IIS> world wide web services> (x) common http features
 
-install (PHPManagerForIIS_V1.5.0.msi)
-install (rewrite_amd64_en-US.msi)
+Install (PHPManagerForIIS_V1.5.0.msi)
+Install (rewrite_amd64_en-US.msi)
 
 ![1](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/2f607629-ac8c-476c-b950-9f661d7d7012)
 
@@ -50,17 +50,17 @@ Create PHP folder in C-drive
 
 ![2](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/7d526d2e-a4a0-4e27-887a-8fe20a1a4ccb)
 
-download (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into the c:\php folder
-download and install (VC_redist.x86.exe.)
+Download (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into the c:\php folder
+Download and install (VC_redist.x86.exe.)
 
 ![3](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/b1538b08-b75a-4016-a42e-1f09504d1b17)
 
-download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 
 ![4](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/110b0ec2-f06e-4e05-aaf1-81b4dea71dc8)
 
 ![5](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/0b2d0caf-b5e2-4883-88a6-d7ec0da507e4)
-open IIS as admin
+Open IIS as admin
 
 ![6](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/6ad8a45d-80bd-4000-94a0-6e5baac4655c)
 
@@ -93,7 +93,7 @@ On the right, click “Browse *:80”
 ![13](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/3a0218a3-6e68-42e9-9925-a867677a5a5f)
 
 ![14](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/a88df853-0d92-4a14-bfcc-d9f43747d62b)
-check the osticket website from the “Browse *:80” step
+Check the osticket website from the “Browse *:80” step
 
 ![15](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/86ad4eca-9145-4757-97c6-087d25ad0f82)
 
@@ -107,7 +107,7 @@ New Permissions -> Everyone -> All
 
 ![18](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/4ad75467-3b4a-4f54-8a7f-796b1771078d)
 
-create a database called osticket
+Create a database called osticket
 
 ![17](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/8233fc0f-f1d8-48c9-b5a4-deff3dc377c2)
 
