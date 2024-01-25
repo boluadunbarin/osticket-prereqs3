@@ -106,5 +106,12 @@ New Permissions -> Everyone -> All
 
 ![17](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/8233fc0f-f1d8-48c9-b5a4-deff3dc377c2)
 
+create a database called osticket
+
+Continue Setting up osticket in the browser
+MySQL Database: osTicket
+MySQL Username: root
+MySQL Password: Password1
+Click “Install Now!”
 
 
