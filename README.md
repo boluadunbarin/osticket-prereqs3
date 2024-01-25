@@ -19,31 +19,29 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-
- 
+<h2>Overall steps</h2>
+ 1) Create virtual machine in azure
+ 2)Install the prereqs
 <h2>Installation Steps</h2>
-Step by step
 
-![Screenshot 2024-01-24 163125](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/e1a8604a-2c8a-4b1c-ba57-05a14dfa977f)
+![Screenshot 2024-01-24 210308](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/33bd8ed8-01d2-4419-9b50-d7ef4cd023ef)
 
-![Screenshot 2024-01-24 165635](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/7f6323ba-208d-456f-8b0d-8066757e163e)
+![Screenshot 2024-01-24 210440](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/af98da90-f9cd-409b-aaa0-4ac90b9deea2)
 
-![Screenshot 2024-01-24 180702](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/44761e55-8e24-4dfd-8cd5-c9a5f8d889d8)
+![Screenshot 2024-01-24 210153](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/e966500d-abfb-4d76-9293-82b69d329385)
 
-![Screenshot 2024-01-24 180147](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/cc5d0168-b2e4-4c4c-be34-ef9d3b3eee62)
+![Screenshot 2024-01-24 211001](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/8c9f6cde-3ebe-4834-a325-a1687322331a)
 
-![Screenshot 2024-01-24 180810](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/d341f21d-60ef-4a30-b34a-5d251a8ca796)
+![Screenshot 2024-01-24 210912](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/6007c7e3-89f8-4c20-91c5-f83f8de61070)
 
-![Screenshot 2024-01-24 170059](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/dfa6a8f2-09b5-4aed-8904-064d4a069b89)
+![Screenshot 2024-01-24 211157](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/06374a63-ddaa-48df-a0a1-b0c615ba697c)
 
-![Screenshot 2024-01-24 181556](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/c0dd0f45-09bb-487a-9376-82e6c0bef5af)
+![Screenshot 2024-01-24 211326](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/e4d1dd05-94b2-4915-903c-71d3175d6df9)
 
-![Screenshot 2024-01-24 182241](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/fbe3e78d-cca5-4520-9822-568fa4e4655d)
+![Screenshot 2024-01-24 212542](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/b4493c9e-ed72-4ba7-b290-5bff1868ad23)
 
-![Screenshot 2024-01-24 182546](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/cc466185-15cc-42b2-b77f-7a5f9d935809)
+![Screenshot 2024-01-24 212654](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/1bddeb0e-c605-4830-a8dd-670d4576e5a9)
 
-![Screenshot 2024-01-24 182345](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/42f79545-1644-4aed-8373-b40668bf7774)
+![Screenshot 2024-01-24 212754](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/aba0adea-360a-4d8b-a521-2684cffabebb)
 
-![Screenshot 2024-01-24 182702](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/553aca58-d8fd-4ac0-a394-62217b247516)
-
-![Screenshot 2024-01-24 182812](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/7ab9ca82-014d-4618-86a6-b4c3575944e4)
+![Screenshot 2024-01-24 213200](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/d0f67dd1-33e8-45bb-bcf7-f68e7c805aaf)
