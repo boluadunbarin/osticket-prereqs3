@@ -20,6 +20,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  1) Create virtual machine in azure
  
  2) Install the prereqs
+
+
 <h2>Installation Steps</h2>
 
 ![image](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/82678fc5-de9f-47d0-93b7-28318a7be4a7)
