@@ -57,6 +57,7 @@ Create PHP folder in C-drive
 ![2](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/7d526d2e-a4a0-4e27-887a-8fe20a1a4ccb)
 
 Download (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into the c:\php folder
+
 Download and install (VC_redist.x86.exe.)
 
 ![3](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/b1538b08-b75a-4016-a42e-1f09504d1b17)
@@ -76,18 +77,18 @@ Register PHP from within IIS
 
 ![8](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/7b797ece-4d1a-451c-bb70-a1ad5f236c0c)
 
-Reload IIS (Stop and Start the server)
+Reload IIS (restart the server)
 
 ![9](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/5c5a3ce0-c60f-44b9-ba32-d8b759cc023d)
 
 
 ![10](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/f1a2e0d6-ee30-46e9-9dda-7edf3f820fd3)
 
-Download osTicket from the Installation Files Folder
-Extract and copy “upload” folder to c:\inetpub\wwwroot
+Download osTicket
+Copy “upload” folder to c:\inetpub\wwwroot
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
-Reload IIS (Stop and Start the server)
+Reload IIS (restart the server)
 
 ![11](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/bb2ab875-8228-49f1-86d9-fc7ce0dc3c43)
 
