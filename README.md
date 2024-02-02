@@ -18,12 +18,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 <h2>Overall steps</h2>
 <h3></h3> 1) Create virtual machine in azure
- <h4></h4> 2) Install and enable IIS
- <h5></h5> 3) Install the prereqs
- <h6></h6> 4) Open IIS
- <h7></h7> 5) Continue installing prereqs
- <h8></h8> 6) Setup osTicket in the browser
- <h9></h9> 7) Check user and local host osTicket URLs
+<h4></h4> 2) Install and enable IIS
+<h5></h5> 3) Install the prereqs
+<h6></h6> 4) Open IIS
+<h7></h7> 5) Continue installing prereqs
+<h8></h8> 6) Setup osTicket in the browser
+<h9></h9> 7) Check user and local host osTicket URLs
 
  
 <h2>Installation Steps</h2>
