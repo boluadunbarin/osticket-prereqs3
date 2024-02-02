@@ -47,6 +47,7 @@ IIS> world wide web services> application development features> (x) CGI
 IIS> world wide web services> (x) common http features
 
 Install (PHPManagerForIIS_V1.5.0.msi)
+
 Install (rewrite_amd64_en-US.msi)
 
 ![1](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/2f607629-ac8c-476c-b950-9f661d7d7012)
