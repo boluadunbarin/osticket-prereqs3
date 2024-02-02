@@ -105,11 +105,15 @@ Check the osticket website from the “Browse *:80” step
 ![15](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/86ad4eca-9145-4757-97c6-087d25ad0f82)
 
 Rename: ost-config.php
+
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 Assign Permissions: ost-config.php
+
 Disable inheritance:  Remove All
+
 New Permissions: Everyone: All
 
 ![18](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/4ad75467-3b4a-4f54-8a7f-796b1771078d)
@@ -119,10 +123,15 @@ Create a database called osticket
 ![17](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/8233fc0f-f1d8-48c9-b5a4-deff3dc377c2)
 
 Continue Setting up osticket in the browser
+
 MySQL Database: osTicket
+
 MySQL Username: root
+
 MySQL Password: Password1
+
 Click “Install Now!”
 
 Browse to http://localhost/osTicket/scp/login.php  for agent/admin 
+
 Browse to http://localhost/osTicket/ for  End Users osTicket URL 
