@@ -116,7 +116,7 @@ Disable inheritance:  Remove All
 
 New Permissions: Everyone: All
 
-![18](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/4ad75467-3b4a-4f54-8a7f-796b1771078d)
+![18](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/4ad75467-3b4a-4f54-8a7f-796b1771078d) 
 
 Create a database called osticket
 
