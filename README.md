@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  
 <h2>Installation Steps</h2>
 
-![image](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/82678fc5-de9f-47d0-93b7-28318a7be4a7)
+![image](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/82678fc5-de9f-47d0-93b7-28318a7be4a7)  [1]
 
 Create a virtual machine in azure, windows 10, 4vCPUs
 Name: vm-osticket
@@ -135,3 +135,8 @@ Click “Install Now!”
 Browse to http://localhost/osTicket/scp/login.php  for agent/admin 
 
 Browse to http://localhost/osTicket/ for  End Users osTicket URL 
+
+References
+[1] Author: Microsoft Corporation
+          Title: Microsoft Azure Documentation
+          URL: https://docs.microsoft.com/en-us/azure/
