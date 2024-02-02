@@ -17,13 +17,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 <h2>Overall steps</h2>
- 1) Create virtual machine in azure
- 2) Install and enable IIS
- 3) Install the prereqs
- 4) Open IIS
- 5) Continue installing prereqs
- 6) Setup osTicket in the browser
- 7) Check user and local host osTicket URLs
+<h3></h3> 1) Create virtual machine in azure
+ <h4></h4>2) Install and enable IIS
+ <h5></h5>3) Install the prereqs
+ <h6></h6>4) Open IIS
+ <h7></h7>5) Continue installing prereqs
+ <h8></h8>6) Setup osTicket in the browser
+ <h9></h9>7) Check user and local host osTicket URLs
 
  
 <h2>Installation Steps</h2>
@@ -32,7 +32,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 Create a virtual machine in azure, windows 10, 4vCPUs
 Name: vm-osticket
+
 User: gftbnd
+
 Password:abdABD1!EJFejf
 
 ![Screenshot 2024-01-24 220958](https://github.com/boluadunbarin/osticket-prereqs3/assets/157642328/c5967489-eb10-4f6f-8a6c-1e1c1910c32c)
